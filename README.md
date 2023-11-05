@@ -119,8 +119,8 @@ if __name__ == "__main__":
     travel_hyperloop(tube, capsule)
 
 # simulate_hyperloop function sets up the initial conditions, and the travel_hyperloop function simulates the capsule's travel through the tube until it reaches the end.
-import time
 
+import time
 class HyperloopCapsule:
     def __init__(self, name, speed):
         self.name = name
