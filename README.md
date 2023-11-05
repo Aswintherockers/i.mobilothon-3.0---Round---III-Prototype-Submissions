@@ -2,7 +2,7 @@
 # i.mobilothon-3.0---Round---III-Prototype-Submissions
 # Sustainable Hyperloop Transportation
 
-
+## IN that mainly insist to tell we not have a idea  about the project development  it's an hardware idea it's a new innovative not have an software solution only have an hardware solution only  so only we haven't submit the code on the githhub but we have a proposed new innovative architecture idea to be given a ppt attached on the github
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
